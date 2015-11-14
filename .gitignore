@@ -2,5 +2,4 @@
 *.command
 dev/
 old/
-*.css
-*.conf
+
