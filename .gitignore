@@ -2,4 +2,5 @@
 *.command
 dev/
 old/
-
+decision*
+categorization*

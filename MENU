@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{index.html}
 Kurt Braunlich
-    Home                []
+    Home                [index.html]
     CV         		[cvBraunlich.pdf]
     #revision history    [revision.html]
     #contact             [contact.html]
