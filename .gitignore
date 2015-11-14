@@ -1,0 +1,6 @@
+*.jemdoc
+*.command
+dev/
+old/
+*.css
+*.conf

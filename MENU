@@ -1,0 +1,19 @@
+# jemdoc: menu{MENU}{index.html}
+Kurt Braunlich
+    Home                [index.html]
+    CV         		[cvBraunlich.pdf]
+    #revision history    [revision.html]
+    #contact             [contact.html]
+
+#Research
+   # Categorization      [categorization.html]
+  #Decision-Making     [decision_making.html]
+#Teaching
+#    Cog Neuro		[cogneuro.html]
+#    Bio. Psych.		[biopsych.html]
+#    Cog. Psych.		[cogpsych.html]
+Online
+    Twitter          	[https://twitter.com/braunlich_k]
+    Github		[https://github.com/kbraunlich]
+    #Mendeley         	[https://www.mendeley.com/profiles/kurt-braunlich/]
+    Google Scholar	[https://scholar.google.com/citations?user=_RYXFZsAAAAJ&hl=en]
