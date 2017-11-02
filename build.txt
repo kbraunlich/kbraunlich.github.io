@@ -1,0 +1,4 @@
+#/bin/bash
+cd /home/kurt/Dropbox/website/kbraunlich.github.io
+source activate py27
+sudo ./jemdoc -c mysite.conf *.jemdoc
