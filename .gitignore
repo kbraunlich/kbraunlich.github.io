@@ -1,4 +1,4 @@
-*.jemdoc
+.jemdoc
 *.command
 dev/
 old/
