@@ -14,21 +14,75 @@ k.braunlich@ucl.ac.uk
 
 
 == About
-I am currently a research associate working with [http://bradlove.org/ Brad Love] at the University College London. In the past, I worked with [http://wheelerlab.gatech.edu/ Mark Wheeler] at the Georgia Institute of Technology, and with [https://sites.google.com/site/segerlabcsu/Researchers Carol Seger] at Colorado State University, where I completed my Ph.D. Broadly, I combine neuroimaging (primarily fMRI), behavioral experimentation, and mathematical modeling to investigate biological mechanisms underlying our ability to draw meaningful information from the world around us. My work is closely related to the fields of categorization and decision-making.
+I'm a research associate working with [http://bradlove.org/ Brad Love] at the University College London. I'm broadly interested in how we organize information from the external environment, and how we use that information to make decisions. More specifically, I combine neuroimaging (primarily fMRI), cognitive modeling, and modern "machine-learning" approaches to better understand how knowledge about specific concepts interact with our current goals
+
+neural representations reflect learned concepts, and are modulated by our current goals.
+
+In the past, I have worked with [http://wheelerlab.gatech.edu/ Mark Wheeler] at the Georgia Institute of Technology, and with [https://sites.google.com/site/segerlabcsu/Researchers Carol Seger] at Colorado State University, where I completed my Ph.D.
 
 
 == Publications
-- Braunlich, K., Liu, Z., & Seger, C. A. (2017). Occipitotemporal category representations are sensitive to abstract category boundaries defined by generalization demands. [http://www.jneurosci.org/content/37/32/7631 / The Journal of Neuroscience/], /37/ (32), 7631-7642.
-- Braunlich, K., & Seger, C. A. (2016). Categorical evidence, confidence and urgency during probabilistic categorization. [http://dx.doi.org/10.1016/j.neuroimage.2015.11.011  / NeuroImage/],  /125/, 941-952.
-- Liu, Z., Braunlich, K., Wehe, H. S., & Seger, C. A. (2015). Neural networks supporting switching, hypothesis testing, and rule application. [http://www.sciencedirect.com/science/article/pii/S0028393215301044 / Neuropsychologia/], /77/, 19–34.
-- Braunlich, K., Gomez-Lavin, J., & Seger, C. A. (2015). Frontoparietal networks involved in categorization and item working memory. [http://www.sciencedirect.com/science/article/pii/S1053811914009811 / NeuroImage/], /107/, 146–162.
-- Seger, C. A., Braunlich, K., Wehe, H., & Liu, Z. (2015). Generalization in category learning: The roles of representational and decisional uncertainty. [http://www.jneurosci.org/content/35/23/8802.short / The Journal of Neuroscience/], /35/ (23), 8802–8812.
-- Seger, C. A., & Braunlich, K. (2015). Category learning. In A. W. Toga (Ed.), /Human Brain Mapping: An Encyclopedic Reference. Elsevier Inc/.
-- Braunlich, K., & Seger, C. A. (2012). The basal ganglia. [http://wires.wiley.com/WileyCDA/WiresArticle/articles.html?doi=10.1002%2Fwcs.1217 / Wiley Interdisciplinary Reviews: Cognitive Science/], /4/ (2), 135–148.
+~~~
+{}{img_left}{imgs/occAtt_jepg.png}{Kurt Braunlich}{65}{65}
+*Occipitotemporal Representations Reflect Individual Differences in Conceptual Knowledge.*\n
+Braunlich, K. & Love, B. C. (in press).   /Journal of Experimental Psychology: General/. \[[http://bradlove.org/papers/BraunlichLove2018.pdf pdf]\] \n\n
+We link brain, behavior, and classic cognitive theory by demonstrating that occipitotemporal representations of individual stimulus dimensions are embedded within an attentionally-modulated space closely resembling that conceptualized by classic categorization models.
+~~~
 
-== Preprints
-- Braunlich, K., & Love, B. C. (2018). Occipitotemporal representations reflect individual differences in conceptual knowledge. [https://www.biorxiv.org/content/early/2018/02/14/264895.article-info / BioRxiv/].
+~~~
+{}{img_left}{imgs/otc_jneuro.png}{Kurt Braunlich}{65}{65}{http://www.jneurosci.org/content/37/32/7631}
+*Occipitotemporal Category Representations are Sensitive to Abstract Category Boundaries Defined by Generalization Demands.* \n
+Braunlich, K., Liu, Z., & Seger, C. A. (2017). [http://www.jneurosci.org/content/37/32/7631 / The Journal of Neuroscience/].\n\n
+The ability to generalize knowledge to novel situations is a fundamental cognitive capacity. Using a task in which participants categorized stimuli according to "strict" and "lax" generalization rules, we investigated whether occipitotemporal representations reflect generalization demands.
+~~~
+
+~~~
+{}{img_left}{imgs/acmltr_NI.png}{Kurt Braunlich}{65}{65}{http://dx.doi.org/10.1016/j.neuroimage.2015.11.011}
+*Categorical Evidence, Confidence and Urgency During Probabilistic Categorization.* \n
+Braunlich, K., & Seger, C. A. (2016). [http://dx.doi.org/10.1016/j.neuroimage.2015.11.011  / NeuroImage/].\n\n
+Real-world decisions evolve across time, and require decision to keep track of multiple variables.
+Using a temporally-extended categorization task, we tracked the temporal evolution of three important neural signals: categorical evidence, normative decision confidence, and monotonically-ramping "evidence independent" signals, which are thought to reflect temporal demands on decisional processes.
+~~~
+
+~~~
+{}{img_left}{imgs/neur_np.png}{Kurt Braunlich}{65}{65}{http://www.sciencedirect.com/science/article/pii/S0028393215301044}
+*Neural Networks Supporting Switching, Hypothesis Testing, and Rule Application.* \n
+Liu, Z., Braunlich, K., Wehe, H. S., & Seger, C. A. (2015). [http://www.sciencedirect.com/science/article/pii/S0028393215301044 / Neuropsychologia/].\n\n
+Using constrained principal component analysis, we investigated how multiple networks contribute to task switching, hypothesis-testing and rule application.
+~~~
+
+~~~
+{}{img_left}{imgs/wmcat_NI.png}{Kurt Braunlich}{65}{60}{http://www.sciencedirect.com/science/article/pii/S1053811914009811}
+*Frontoparietal Networks Involved in Categorization and Item Working Memory.* \n
+Braunlich, K., Gomez-Lavin, J., & Seger, C. A. (2015). [http://www.sciencedirect.com/science/article/pii/S1053811914009811 / NeuroImage/].\n\n
+Categorization and object-identification are fundamental cognitive capacities which allow decision-makers to apply learned knowledge to novel situations. Using a multivariate connectivity analysis, we identify multiple networks involved in the performance of these tasks, and investigate how these networks were recruited during their performance.
+~~~
+
+~~~
+{}{img_left}{imgs/gen_jneuro.png}{Kurt Braunlich}{65}{65}{http://www.jneurosci.org/content/35/23/8802.short}
+*Generalization in Category Learning: The Roles of Representational and Decisional Uncertainty.* \n
+Seger, C. A., Braunlich, K., Wehe, H., & Liu, Z. (2015). [http://www.jneurosci.org/content/35/23/8802.short / The Journal of Neuroscience/].\n\n
+During perceptual categorization, both within- and between-category variance can influence behavioral performance. Using model-based fMRI, we investigated neural signals reflecting distance from a learned category prototype to novel regions of perceptual space (within category variance), and signals reflecting distance from a linear decision boundary (between category variance).
+~~~
+
+~~~
+{}{img_left}{imgs/cat_hbm.png}{Kurt Braunlich}{65}{60}{papers/Seger_Braunlich_ 2015_Category_learning.pdf}
+*Category Learning.* \n
+Seger, C. A., & Braunlich, K. (2015). In A. W. Toga (Ed.), Human Brain Mapping: An Encyclopedic Reference. Elsevier Inc.\n\n
+Stimuli can be sorted into categories using a variety of strategies. In this review, we discuss how multiple neural systems are thought to cooperate and compete during the performance of different categorization tasks.
+~~~
+
+~~~
+{}{img_left}{imgs/bg_wires.png}{Kurt Braunlich}{65}{60}{http://wires.wiley.com/WileyCDA/WiresArticle/articles.html?doi=10.1002%2Fwcs.1217}
+*The Basal Ganglia.* \n
+Braunlich, K., & Seger, C. A. (2012).  [http://wires.wiley.com/WileyCDA/WiresArticle/articles.html?doi=10.1002%2Fwcs.1217 / Wiley Interdisciplinary Reviews: Cognitive Science/].\n\n
+The basal ganglia are anatomically well-positioned to modulate activity across the brain. In this review, we discuss the importance of the basal ganglia in instrumental learning, cognitive control, sequence learning, and categorization. To illustrate the relationship between the basal ganglia and cognitive function, we  discuss the neurobiological and cognitive characteristics of Parkinson’s disease, Huntington’s disease and addiction.
+~~~
 
 == Recent Presentations
-- Braunlich, K., & Love, B. C. (2017). Occipitotemporal representations are modulated by conceptual knowledge and interact with a frontoparietal network. In[papers/Braunlich_CCN.pdf / Cognitive Computational Neuroscience Meeting/]. New York, New York, USA.
-- Thaut, M. H., Braunlich, K., Kluger, B., McIntosh, G., & Seger, C. A. (2015). The beneficial effects of rhythmic auditory stimuli for the production of voluntary motor movements in Parkinsons disease. Poster presented at the [posters/rhythm_sfn_10_15_3.pdf / Society for Neuroscience Annual Meeting/]. Chicago, IL, USA.
+~~~
+{}{img_left}{imgs/ccn.png}{Kurt Braunlich}{65}{60}{papers/Braunlich_CCN.pdf}
+*Occipitotemporal representations are modulated by conceptual knowledge and interact with a frontoparietal network.* \n
+Braunlich, K., & Love, B. C. (2017). Presented at the  / Cognitive Computational Neuroscience Annual Meeting/. New York, New York, USA. \[[papers/Braunlich_ccn.pdf Conference Paper]\] \n\n
+Building on the attentional effects reported in Braunlich & Love (2018)  we use a novel connectivity analysis to identify regions of the brain involved in reading-out, or modulating, the strength of these occipitotemporal stimulus feature representations. We demonstrate that regions of the bilateral intraparietal sulcus closely predict (in a cross-validated sense) the strength of these representations on a trial-by-trial basis. Frontal regions, in turn, predict the strength of these intraparietal representations.
+~~~

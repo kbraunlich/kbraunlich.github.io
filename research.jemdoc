@@ -1,0 +1,88 @@
+# jemdoc: menu{MENU}{decision_making.html}
+= Kurt Braunlich
+
+Research focii:
+- attention: conceptual knowledge allows us to selectively attend to goal-relevant information sources.
+  - neurasl effects of selective attention are often investigated through use of powerful "contrastive" experimental approaches, in which neural representations of attended stimulus dimensions are compared to those of unattended dimensions.
+  - often defined in terms of attentional "weights", which reflect the importance of each information source during decision-making. In these models, in these models, it is typically assumed that all stimulus dimensions are initially encoded. However, this unlikely in high-dimensional real-world environments, as we are sometimes suprisingly unaware of task -irrelevant informaton.
+dimensions.
+
+# attention
+linking behavior and brain throuch cognitive models:  parameters in existing cognitive models. Novel model of categorization designed to investigate bidirectional influences of active information-sampling and concept-learning.
+  - self termination: offers an alternative to the drift diffusion-model or the Sequential Probability ratio test, in that the threshold parameter is not fixed, but is updated on each step, and reflects whether any additionaly information is expected to improved expected utility.
+
+# decision-making
+
+
+# generalization
+
+
+
+  decision-makers are cued to attend to specific information sour
+
+generalization: how we can use generalize knowledge gained through past experience to novel experiences.
+
+- how we can use this knowledge in a goal directed manner to attend relevant aspects of the environment, and use that information in appropriate ways.
+
+
+
+ investigate biological mechanisms associated with attention and generalization.
+
+draw meaningful information from the world around us. My work is closely related to the fields of categorization and decision-making.
+
+
+
+
+
+
+== Publications
+- Braunlich, K. & Love, B. C. (in press). Occipitotemporal Representations Reflect Individual Differences in Conceptual Knowledge. /Journal of Experimental Psychology: General/.
+- Braunlich, K., Liu, Z., & Seger, C. A. (2017). Occipitotemporal category representations are sensitive to abstract category boundaries defined by generalization demands. [http://www.jneurosci.org/content/37/32/7631 / The Journal of Neuroscience/], /37/ (32), 7631-7642.
+- Braunlich, K., & Seger, C. A. (2016). Categorical evidence, confidence and urgency during probabilistic categorization. [http://dx.doi.org/10.1016/j.neuroimage.2015.11.011  / NeuroImage/],  /125/, 941-952.
+- Liu, Z., Braunlich, K., Wehe, H. S., & Seger, C. A. (2015). Neural networks supporting switching, hypothesis testing, and rule application. [http://www.sciencedirect.com/science/article/pii/S0028393215301044 / Neuropsychologia/], /77/, 19–34.
+- Braunlich, K., Gomez-Lavin, J., & Seger, C. A. (2015). Frontoparietal networks involved in categorization and item working memory. [http://www.sciencedirect.com/science/article/pii/S1053811914009811 / NeuroImage/], /107/, 146–162.
+- Seger, C. A., Braunlich, K., Wehe, H., & Liu, Z. (2015). Generalization in category learning: The roles of representational and decisional uncertainty. [http://www.jneurosci.org/content/35/23/8802.short / The Journal of Neuroscience/], /35/ (23), 8802–8812.
+- Seger, C. A., & Braunlich, K. (2015). Category learning. In A. W. Toga (Ed.), /Human Brain Mapping: An Encyclopedic Reference. Elsevier Inc/.
+- Braunlich, K., & Seger, C. A. (2012). The basal ganglia. [http://wires.wiley.com/WileyCDA/WiresArticle/articles.html?doi=10.1002%2Fwcs.1217 / Wiley Interdisciplinary Reviews: Cognitive Science/], /4/ (2), 135–148.
+
+== Preprints
+- Braunlich, K., & Love, B. C. (2018). Occipitotemporal representations reflect individual differences in conceptual knowledge. [https://www.biorxiv.org/content/early/2018/02/14/264895.article-info / BioRxiv/].
+
+# attention
+- contrastive analyses vs. precise definition
+  - formal categorizaiton theory: attention as free-parameter
+  - limitation: all dimensions initially encoded. In real-world environments, this is unrealistic, and many phenomena indicate that we were often suprisingly unaware of the information around us. [https://www.youtube.com/watch?v=vJG698U2Mvo] [imgs/dotsGrid.jpg]
+
+  - Instead of encoding all sensory information, accumulating evidence suggests that we actively sample information from sources that we believe will help us acheive our current goals. As
+
+  For example, when deciding whether it is safe to cross the street in the US, 
+== Decision-Making
+Real-world decisions require decision-makers to not only deliberate about the best possible choice, but to adjust the temporal dynamics of this process to minimize costs and maximize gains. In models such as the Drift Diffusion Model (DDM; Ratcliff, 1978) and the sequential probability ratio test, decision-makers accumulate information across time, and commit to a choice when the cumulative decision-evidence exceeds a predetermined decision threshold.
+
+
+
+ deliberation time is determined by a decision threshold, which remains static as information is accumulated during each trial.
+
+
+In this section, the well-known sequential sampling class of decision-making model (SSM) is reviewed. Then, the attractor-network class of model is discussed. This model class instantiates the algorithmic processes outlined in the SSM class within a biologically-plausible framework. Both model classes provide useful frameworks for considering the temporal dynamics of decision-making, and for considering how we flexibly adjust decision thresholds to maximize transient opportunities to transition to desirable states.
+
+=== The Sequential Sampling Model Framework
+Sequential sampling models have been particularly successful in accounting for the temporal dynamics of decision-making behavior. Although they differ in terms of how information is accumulated, they typically posit that information is accumulated from some baseline level, until a decision threshold is crossed. In the Drift Diffusion model  DDM; Figure X Palmer2005,Ratcliff1978,Smith2004 the strength of decision evidence modulates the speed with which a single decision variable (representing accumulated evidence) diffuses towards a decision boundary, and the speed with which decision-makers commit to a decision is modulated both by the strength of this evidence, and the distance between the starting point of the accumulation process and a decision threshold. In race models, two separate accumulators ``race'' to a threshold. Race models have the advantage that they can account for multiple ($>$ 2) response options and can more closely mirror known biological principles (i.e., many regions of the brain are known to accumulate information for specific choices; see for Gold2007 for review].
+
+One reason the SSM framework is attractive is that it provides a compelling characterization of neural activity observed in many regions of the brain. One particularly influential body of research examined perceptual decision making in the domain of motion direction judgments. In the random dot motion task (RDM; Figure \ref{fig:catTasks}.A), participants must judge the direction of motion of a field of dots, and the difficulty of the task is manipulated by varying the percent of dots moving in a coherent direction. A well-known finding is that error rates and reaction times are negatively correlated with motion coherence. Interestingly, activity in many regions is well characterized by this accumulate-to-bound framework. For instance, the activity of neurons in the primate lateral intraparietal area (LIP) is known to track evidence for specific behavioral responses. It also tends to show a stereotyped pattern at the time of behavioral response. These findings suggest that these neurons may represent an important component in a biological framework where evidence is accumulated until a decision threshold is crossed for review, see:{Gold2007}. Specifically, in the random to motion task, these ``accumulator'' LIP neurons seems to integrate information across multiple motion-sensitive neuronal pools in the middle temporal area (area MT). Each of these sensory pools is tuned to a particular motion direction {Britten1992}, and in binary decisions, the activity of LIP  accumulator neurons is well characterized as the unsigned difference between opposing MT neural populations \citep{Roitman2002,Shadlen1996}. More recent studies have shown that LIP neural activity reflects \textit{learned} categorical structure \citep{Fitzgerald2011,Freedman2006,Swaminathan2012b}, and human studies have found that accumulator-related activity is not limited to the human homologue of LIP (the intraparietal sulcus) but exists in a variety of cortical regions including adjoining parietal regions (inferior parietal cortex), pre and primary motor cortices, insula, and lateral frontal regions \citep{Bernier2012,Gluth2012,Ho2009,Kayser2010b,Ploran2007,Ploran2011}.
+
+Interestingly, regions which track categorical evidence appear to depend on specific task demands. For instance, when the mapping between category and response is known during deliberation, regions associated with motor-preparation (e.g., premotor and primary motor cortices, LIP/IPS) tend to track categorical evidence \citep{Gluth2012,Thura2012,Thura2014, Braunlich2016}. However, these regions appear to shift based on manipulations of effector modality \citep{Tosoni2008}, while other regions (e.g., anterior insula) tend to accumulate information regardless of specific effector modalities \citep{Ho2009}
+
+SSM models have also allowed researchers to overcome the temporal limitations of fMRI to investigate distinct components of the decision-making process. For instance, Kayser et al. (\citeyear{Kayser2010}) used an accumulator model \citep{Palmer2005} to investigate whether any regions of the brain might covary with the speed with which perceptual information accumulates in a random dot motion task (see Figure \ref{fig:catTasks}.A). Their results confirmed that the intraparietal sulcus (IPS; the homologue of the primate LIP), like the LIP, is sensitive to the rate at which information accumulates during motion judgments. Interestingly, they additionally found that the strength of functional connectivity beta-series correlation;{Rissman2004} between MT (a regions strongly associated with motion perception) and the IPS negatively covaried with the normative strength of perceptual evidence (i.e., motion coherence). Conversely, the connectivity between area MT and a more inferior region of the posterior parietal cortex positively covaried with motion strength. This finding suggests that both regions of the parietal lobe are sensitive to decisional evidence, but may play opposing roles during deliberation.
+
+=== Cortical Attractor Dynamics
+Although the SSM framework successfully models choice behavior and provides a compelling account of the computations involved in decision making, it provides an incomplete account of the underlying biological mechanisms. Many of the attractive qualities of the SSM framework, however, have been successfully instantiated for formal comparison, see:{Bogacz2006} in biophysically-based models that characterize the decision process according to the attractor dynamics of competitive category-selective neuronal pools e.g.,{Deco2006,Furman2008,Standage2011,UsherM&McClelland2001,Wong2006}. Within this framework, slow recurrent excitatory connections within neuronal pools support the integration of transient sensory information over time, and mutual inhibition between pools assures categorical selectivity i.e., ``winner take all'' dynamics; for reviews, see:{Deco2012,Wang2008}.
+
+~~~
+{}{img_left}{imgs/wongWang.png}{wongwang}{200}{200}
+
+
+*Attractor Dynamics.* A) A schematic of a 2-variable attractor network \citep{Wong2006}, in which two populations of category-selective neuronal pools ($D1$ and $D2$) receive excitatory sensory innervation from different information sources ($I_1$ and $I_2$). The dynamics of the system are influenced by recurrent excitation ($W_+$), inhibition between pools, and by the sensory inputs. B) The network dynamics can be characterized as an energy landscape where a the motion of a particle across the landscape characterizes the deliberative process.  $D1$ and $D2$ compete through inhibitory connections until one wins, at which point the system falls into a basin of attraction. When excitatory and inhibitory influences are balanced, the network can integrate information over time. (A) adapted from Wong and Wang, \citeyear{Wong2006}; B) adapted from Standage et al. \citeyear{Standage2011})
+~~~
+
+The duration of information representation within each category-selective pool emerges naturally from the balance between recurrent excitation within pools and mutual inhibition between pools (Figure \ref{fig:wongWang}). When inactive, recurrent excitatory effects are weak, and the network is characterized by spontaneous activity. When excitatory and inhibitory effects are appropriately balanced, the network can integrate information over time (and can do so optimally, given constraints;{Bogacz2006,VanRavenzwaaij2012b}). When recurrent excitation is sufficiently strong, the network falls into a basin of attraction, and the decision process tends towards commitment; new information is not integrated, but information related to the choice can be stored until a response is required \citep{Cisek2009,Standage2011,Standage2013}. Gain modulation of this recurrent excitation, therefore, is a simple biological mechanism that may underlie flexible adjustments of the speed-accuracy trade-off, and one that is common to several models that account for the effect \citep{Furman2008,Standage2011,Standage2013}. In support of this framework, several groups have observed, within regions associated with the integration of categorical evidence, effects associated with a monotonically-increasing ``urgency'' signal, representing a growing pressure to produce a behavioral response within each trial \citep{Churchland2008,Thura2014,Thura2014a}.
