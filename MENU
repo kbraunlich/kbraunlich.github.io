@@ -1,6 +1,7 @@
 # jemdoc: menu{MENU}{index.html}
 Kurt Braunlich
     Home                [index.html]
+    Research [research.html]
     CV         		[Braunlich_CV.pdf]
     #revision history    [revision.html]
     #contact             [contact.html]
@@ -9,7 +10,6 @@ Kurt Braunlich
 #Research
    # Categorization      [categorization.html]
   #Decision-Making     [decision_making.html]
-  #Publications [publications.html]
 #Teaching
 #    Cog Neuro		[cogneuro.html]
 #    Bio. Psych.		[biopsych.html]
