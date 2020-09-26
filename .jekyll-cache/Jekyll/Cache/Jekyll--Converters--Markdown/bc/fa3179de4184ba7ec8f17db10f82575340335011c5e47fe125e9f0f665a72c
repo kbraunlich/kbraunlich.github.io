@@ -1,0 +1,100 @@
+I"� <h1 id="publications">Publications</h1>
+
+<h2 id="highlights">Highlights</h2>
+
+<p>(For a full list see <a href="#full-list">below</a> or go to <a href="https://scholar.google.com/citations?user=_RYXFZsAAAAJ&amp;hl=en">Google Scholar</a>))</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Bidirectional Influences of Information-Sampling and Concept Learning (working paper)</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/sea_world.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Contemporary models of categorization typically tend to sidestep the problem of how information is initially encoded during decision-making. Instead, a focus of this work has been to investigate how, through selective attention, stimulus representations are “contorted” such that behaviourally-relevant dimensions are accentuated (or “stretched”), and representations of irrelevant dimensions are ignored (or “compressed”). In high-dimensional real-world environments, it is computationally infeasible to sample all available information, and decision-makers selectively sample information from sources expected to provide relevant information. We describe a novel computational model that provides a compelling account for many aspects of human categorization behaviour, – including the propensity to develop and maintain beliefs that systematically deviate from reality.</p>
+      <p><em>K. Braunlich &amp; B.C. Love</em></p>
+      <p><strong><a href="https://psyarxiv.com/48ept/">PsyArXiv</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Occipitotemporal representations reflect individual differences in conceptual knowledge</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/jepg_stim.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Across studies involving explicit attentional cues and categorization studies involving learned conceptual knowledge, a general finding is that occipitotemporal representations of behaviorally relevant-information sources are enhanced relative to those that are irrelevant.  These effects are compelling, as they imply that occipitotemporal representational space may closely resemble that conceptualized by classic cognitive theory. Specifically, it may expand and contract, along axes defined by perceptually separable stimulus dimensions, in ways that closely reflect the idiosyncratic concepts and strategies used by individual participants during decision-making. Using model-based fMRI in conjunction with MVPA, we tested this hypothesis. Our results suggest that occipitotemporal representations are embedded within a space similar to that conceptualized by classic cognitive theory.</p>
+      <p><em>K. Braunlich &amp; B.C. Love</em></p>
+      <p><strong><a href="https://psycnet.apa.org/record/2018-54995-001">JEPG 148 (7)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Occipitotemporal category representations are sensitive to abstract category boundaries defined by generalization demands</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/jneur_otc.jpeg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Using fMRI and MVPA we demonstrate that occipitotemporal representations of simple visual stimuli differ between  permissive and strict category-inclusion criteria. Specifically, we found that stimulus information was more easily decoded from the brain when the stimulus was closer to the decision boundary associated with the active categorization task (i.e., decoding accuracy was greater when decision confidence was low). Whereas previous studies have used powerful contrastive paradigms to demonstrate the effects of selective attention on perceptual representation, our results demonstrate how decision makers can draw on learned knowledge of category structure to flexibly optimize visual processing for specific tasks demands.</p>
+      <p><em>K. Braunlich, Z. Liu, &amp; C.A. Seger</em></p>
+      <p><strong><a href="https://www.jneurosci.org/content/37/32/7631.abstract">J.Neuro. 37 (32)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>The Basal Ganglia</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/wires.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Through its connections with widespread cortical areas and with dopaminergic midbrain areas, the basal ganglia are well situated to integrate patterns of cortical input with the dopaminergic reward signal originating in the midbrain. In this review, we consider the functions of the basal ganglia in relation to its gross and cellular anatomy, and discuss how these mechanisms subserve the thresholding and selection of motor and cognitive processes. We also discuss how the dopaminergic reward signal enables flexible task learning through modulation of striatal plasticity, and how reinforcement learning models have been used to account for various aspects of basal ganglia activity.</p>
+      <p><em>K. Braunlich &amp; C.A. Seger</em></p>
+      <p><strong><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/wcs.1217">WIREs Cognitive Science</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="full-list">Full List</h2>
+
+<p>Brain Mechanisms of Concept Learning <br />
+  <em>D. Zeithamova, M.L. Mack, K. Braunlich, T. Davis, C.A. Seger, M.T.R. van Kesteren, &amp; A. Wutz </em><br /><a href="https://www.jneurosci.org/content/39/42/8259.abstract">J. Neuro 39 (42).</a></p>
+
+<p>Bidirectional Influences of Information-Sampling and Concept Learning (working paper) <br />
+  <em>K. Braunlich &amp; B.C. Love </em><br /><a href="https://psyarxiv.com/48ept/">PsyArXiv</a></p>
+
+<p>Occipitotemporal representations reflect individual differences in conceptual knowledge <br />
+  <em>K. Braunlich &amp; B.C. Love </em><br /><a href="https://psycnet.apa.org/record/2018-54995-001">JEPG 148 (7)</a></p>
+
+<p>Rhythmic auditory cues shape neural network recruitment in Parkinson’s disease during repetitive motor behavior <br />
+  <em>K. Braunlich, C.A. Seger, K.G. Jentik, I. Buard, K.M. Kluger &amp; M.H. Thaut </em><br /><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.14227">EJ. Neuro 49 (6)</a></p>
+
+<p>Occipitotemporal category representations are sensitive to abstract category boundaries defined by generalization demands <br />
+  <em>K. Braunlich, Z. Liu, &amp; C.A. Seger </em><br /><a href="https://www.jneurosci.org/content/37/32/7631.abstract">J.Neuro. 37 (32)</a></p>
+
+<p>Categorical evidence, confidence, and urgency during probabilistic categorization <br />
+  <em>K. Braunlich &amp; C.A. Seger </em><br /><a href="https://www.sciencedirect.com/science/article/abs/pii/S1053811915010332">NeuroImage 125 (15)</a></p>
+
+<p>Neural networks supporting switching, hypothesis testing, and rule application <br />
+  <em>Z. Liu, K. Braunlich, H.S. Wehe, &amp; C.A. Seger </em><br /><a href="https://www.sciencedirect.com/science/article/pii/S0028393215301044">Neuropsychologia 77</a></p>
+
+<p>Generalization in Category Learning: The Roles of Representational and Decisional Uncertainty <br />
+  <em>C.A. Seger, K. Braunlich, H.S. Wehe, &amp; Z. Liu </em><br /><a href="https://www.jneurosci.org/content/35/23/8802.short">J. Neuro. 35 (23)</a></p>
+
+<p>Frontoparietal networks involved in categorization and item working memory <br />
+  <em>K. Braunlich, J. Gomez-Lavin,  &amp; C.A. Seger </em><br /><a href="https://www.sciencedirect.com/science/article/pii/S1053811914009811">NeuroImage 107</a></p>
+
+<p>Categorization <br />
+  <em>C.A. Seger &amp; K. Braunlich </em><br /><a href="">Brain Mapping: An Encyclopedic Reference</a></p>
+
+<p>The Basal Ganglia <br />
+  <em>K. Braunlich &amp; C.A. Seger </em><br /><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/wcs.1217">WIREs Cognitive Science</a></p>
+
+:ET

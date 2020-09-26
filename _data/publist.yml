@@ -1,0 +1,125 @@
+- title: "Brain Mechanisms of Concept Learning"
+  image: 
+  description: 
+  authors:  D. Zeithamova, M.L. Mack, K. Braunlich, T. Davis, C.A. Seger, M.T.R. van Kesteren, & A. Wutz
+  link:
+    url: https://www.jneurosci.org/content/39/42/8259.abstract
+    display:  J. Neuro 39 (42).
+  highlight: 0
+  news2:
+
+
+
+- title: "Bidirectional Influences of Information-Sampling and Concept Learning (working paper)"
+  image: sea_world.png  
+  description: Contemporary models of categorization typically tend to sidestep the problem of how information is initially encoded during decision-making. Instead, a focus of this work has been to investigate how, through selective attention, stimulus representations are “contorted” such that behaviourally-relevant dimensions are accentuated (or “stretched”), and representations of irrelevant dimensions are ignored (or “compressed”). In high-dimensional real-world environments, it is computationally infeasible to sample all available information, and decision-makers selectively sample information from sources expected to provide relevant information. We describe a novel computational model that provides a compelling account for many aspects of human categorization behaviour, -- including the propensity to develop and maintain beliefs that systematically deviate from reality.
+  authors: K. Braunlich & B.C. Love  
+  link:
+    url: https://psyarxiv.com/48ept/    
+    display:  PsyArXiv
+  highlight: 1
+  news2: 
+
+ 
+- title: "Occipitotemporal representations reflect individual differences in conceptual knowledge"
+  image: jepg_stim.png
+  description: Across studies involving explicit attentional cues and categorization studies involving learned conceptual knowledge, a general finding is that occipitotemporal representations of behaviorally relevant-information sources are enhanced relative to those that are irrelevant.  These effects are compelling, as they imply that occipitotemporal representational space may closely resemble that conceptualized by classic cognitive theory. Specifically, it may expand and contract, along axes defined by perceptually separable stimulus dimensions, in ways that closely reflect the idiosyncratic concepts and strategies used by individual participants during decision-making. Using model-based fMRI in conjunction with MVPA, we tested this hypothesis. Our results suggest that occipitotemporal representations are embedded within a space similar to that conceptualized by classic cognitive theory.
+  authors: K. Braunlich & B.C. Love
+  link:
+    url: https://psycnet.apa.org/record/2018-54995-001 
+    display:  JEPG 148 (7)
+  highlight: 1
+  news2:
+
+
+- title: "Rhythmic auditory cues shape neural network recruitment in Parkinson's disease during repetitive motor behavior"
+  image: 
+  description: 
+  authors: K. Braunlich, C.A. Seger, K.G. Jentik, I. Buard, K.M. Kluger & M.H. Thaut
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.14227
+    display:  EJ. Neuro 49 (6)
+  highlight: 0
+  news2:
+
+
+- title: "Occipitotemporal category representations are sensitive to abstract category boundaries defined by generalization demands"
+  image: jneur_otc.jpeg
+  description: Using fMRI and MVPA we demonstrate that occipitotemporal representations of simple visual stimuli differ between  permissive and strict category-inclusion criteria. Specifically, we found that stimulus information was more easily decoded from the brain when the stimulus was closer to the decision boundary associated with the active categorization task (i.e., decoding accuracy was greater when decision confidence was low). Whereas previous studies have used powerful contrastive paradigms to demonstrate the effects of selective attention on perceptual representation, our results demonstrate how decision makers can draw on learned knowledge of category structure to flexibly optimize visual processing for specific tasks demands.  
+  authors: K. Braunlich, Z. Liu, & C.A. Seger
+  link:
+    url: https://www.jneurosci.org/content/37/32/7631.abstract
+    display:  J.Neuro. 37 (32)
+  highlight: 1
+  news2:
+
+
+
+- title: "Categorical evidence, confidence, and urgency during probabilistic categorization"
+  image: acmltr_NI.png
+  description: Using a temporally-extended paradigm in conjunction with fMRI, we tracked the temporal evolution of categorical evidence and decision confidence as participants deliberated about impending choices. We also differentiated these factors from urgency, a variable that is insensitive to the strength of the decision evidence, but is thought to play an important role determining the appopriate time to respond. A limitation of this work is that we did not differentiate signals reflecting temporal demands from other signals expected to increase during deliberation (e.g., those associated with an increasing amount of decision information). Subsequent work targets this issue.
+  authors: K. Braunlich & C.A. Seger
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1053811915010332
+    display:  NeuroImage 125 (15)
+  highlight: 0
+  news2:
+
+
+- title: "Neural networks supporting switching, hypothesis testing, and rule application"
+  image: 
+  description: 
+  authors: Z. Liu, K. Braunlich, H.S. Wehe, & C.A. Seger
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0028393215301044
+    display:  Neuropsychologia 77
+  highlight: 0
+  news2:
+ 
+
+- title: "Generalization in Category Learning: The Roles of Representational and Decisional Uncertainty"
+  image: gen_jneuro.png
+  description: Effective generalization in a multiple-category situation involves both assessing potential membership in individual categories and resolving conflict between categories while implementing a decision bound. The results are interpreted as supporting the existence of different uncertainty resolution mechanisms for uncertainty about category membership (representational uncertainty) and uncertainty about decision bound (decisional uncertainty).
+  authors: C.A. Seger, K. Braunlich, H.S. Wehe, & Z. Liu 
+  link:
+    url: https://www.jneurosci.org/content/35/23/8802.short
+    display: J. Neuro. 35 (23)
+  highlight: 0
+  news2:
+
+
+- title: "Frontoparietal networks involved in categorization and item working memory"
+  image: catWM_NI.png
+  description: We compared delayed match-to-sample and delayed match-to-category tasks to investigate how neural systems were recruited for categorization and item-specific processes across encoding, maintenance across a short delay, and match–mismatch decisions. In the match-to-sample task, optimal behavior could be subserved by a strategy wherein participants considered only the intrinsic visual features of the stimuli. The categorization task, however, required that participants make judgments based on latent categorical features (the category labels). We found that categorization and item specific memory recruited five neural networks (identified as CPCA components). Two of the components are of particular note. The first recruited key nodes of the salience network involved in immediate stimulus processing, and the second recruited fronto-parietal-striatal regions linked to executive function.
+  authors: K. Braunlich, J. Gomez-Lavin,  & C.A. Seger
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1053811914009811
+    display:  NeuroImage 107
+  highlight: 0
+  news2:
+
+
+
+- title: "Categorization"
+  image: 
+  description: 
+  authors: C.A. Seger & K. Braunlich
+  link:
+    url: 
+    display:  Brain Mapping&#58; An Encyclopedic Reference
+  highlight: 0
+  news2:
+
+
+
+- title: "The Basal Ganglia"
+  image: wires.png
+  description: Through its connections with widespread cortical areas and with dopaminergic midbrain areas, the basal ganglia are well situated to integrate patterns of cortical input with the dopaminergic reward signal originating in the midbrain. In this review, we consider the functions of the basal ganglia in relation to its gross and cellular anatomy, and discuss how these mechanisms subserve the thresholding and selection of motor and cognitive processes. We also discuss how the dopaminergic reward signal enables flexible task learning through modulation of striatal plasticity, and how reinforcement learning models have been used to account for various aspects of basal ganglia activity.  
+  authors: K. Braunlich & C.A. Seger
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/wcs.1217
+    display:  WIREs Cognitive Science
+  highlight: 1
+  news2:
+
+

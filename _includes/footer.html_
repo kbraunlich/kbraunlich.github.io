@@ -1,0 +1,30 @@
+<div id="footer" class="panel">
+  <div class="panel-footer">
+	<div class="container-fluid">
+	  <div class="row">
+
+		<div class="col-sm-4">
+		 <p>I am a member of the <a href="https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/lbc/slp/index.shtml">Section on Learning and Plasticity</a> at the <a href="https://www.nimh.nih.gov/index.shtml">National Institute of Mental Health</a>.</p>
+            
+
+		 <p> </p><p>
+            		  
+            
+		</div>
+		<div class="col-sm-4">
+		  Contact:<br />
+		  4C216 Building 10<br />
+		  Laboratory of Brain and Cognition<br />
+ 		  National Institute of Mental Health<br />
+		  Bethesda, MD 20892 <br />
+            	<a href="mailto:kurt.braunlich@nih.gov">Email</a>
+		</div>
+
+	
+	  </div>
+	</div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
