@@ -2,38 +2,36 @@
 = Kurt Braunlich
 
 ~~~
-{}{img_left}{imgs/braincloud.png}{Kurt Braunlich}{212}{170}
+{}{img_left}{imgs/headshot_crop_bw.png}{Kurt Braunlich}{145.13}{135.994}
 #~~~
 \n
-Kurt Braunlich, Ph.D. \n
-Research Associate \n
-[https://www.ucl.ac.uk/pals/research/experimental-psychology/ Department of Experimental Psychology]\n
-University College London \n
-k.braunlich@ucl.ac.uk
+[https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/lbc/ Laboratory of Brain and Cognition]\n
+National Institutes of Mental Health \n
+kurt.braunlich@nih.gov
 ~~~
 
 
-== About
-I am currently a research associate working with [http://bradlove.org/ Brad Love] at the University College London. In the past, I worked with [http://wheelerlab.gatech.edu/ Mark Wheeler] at the Georgia Institute of Technology, and with [https://sites.google.com/site/segerlabcsu/Researchers Carol Seger] at Colorado State University, where I completed my Ph.D. Broadly, I combine neuroimaging (primarily fMRI), behavioral experimentation, and mathematical modeling to investigate biological mechanisms underlying our ability to draw meaningful information from the world around us.
+== About : discription here of research ideas and interests, with links to papers.  List pubs in research.html
 
-== Recent Preprints
-- Braunlich, K., & Love, B. C. (2018). Bidirectional influences of information-sampling and concept learning. [https://doi.org/10.31234/osf.io/48ept / PsyArXiv/]
+I'm a cognitive neuroscientist interested in how we organize information to make effective decisions. Broadly, I combine neuroimaging (primarily fMRI), behavioral experimentation, and mathematical modeling to investigate biological mechanisms underlying our ability to draw ~meaningful~ information from the world around us.
 
-== Publications
-- Braunlich, K, Seger, C. A., Jentink, K. G., Buard, I., Kluger, B. M., & Thaut, M.H. (in press). Rhythmic auditory cues shape neural network recruitment in Parkinson’s disease during repetitive motor behavior. [https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.14227 /European Journal of Neuroscience/].
-- Braunlich, K. & Love, B. C. (in press). Occipitotemporal representations reflect
-individual differences in conceptual knowledge. [http://psycnet.apa.org/record/2018-54995-001 /Journal of Experimental Psychology:
-General/].
-- Braunlich, K., Liu, Z., & Seger, C. A. (2017). Occipitotemporal category representations are sensitive to abstract category boundaries defined by generalization demands. [http://www.jneurosci.org/content/37/32/7631 / The Journal of Neuroscience/], /37/ (32), 7631-7642.
-- Braunlich, K., & Seger, C. A. (2016). Categorical evidence, confidence and urgency during probabilistic categorization. [http://dx.doi.org/10.1016/j.neuroimage.2015.11.011  / NeuroImage/],  /125/, 941-952.
-- Liu, Z., Braunlich, K., Wehe, H. S., & Seger, C. A. (2015). Neural networks supporting switching, hypothesis testing, and rule application. [http://www.sciencedirect.com/science/article/pii/S0028393215301044 / Neuropsychologia/], /77/, 19–34.
-- Braunlich, K., Gomez-Lavin, J., & Seger, C. A. (2015). Frontoparietal networks involved in categorization and item working memory. [http://www.sciencedirect.com/science/article/pii/S1053811914009811 / NeuroImage/], /107/, 146–162.
-- Seger, C. A., Braunlich, K., Wehe, H., & Liu, Z. (2015). Generalization in category learning: The roles of representational and decisional uncertainty. [http://www.jneurosci.org/content/35/23/8802.short / The Journal of Neuroscience/], /35/ (23), 8802–8812.
-- Seger, C. A., & Braunlich, K. (2015). Category learning. In A. W. Toga (Ed.), /Human Brain Mapping: An Encyclopedic Reference. Elsevier Inc/.
-- Braunlich, K., & Seger, C. A. (2012). The basal ganglia. [http://wires.wiley.com/WileyCDA/WiresArticle/articles.html?doi=10.1002%2Fwcs.1217 / Wiley Interdisciplinary Reviews: Cognitive Science/], /4/ (2), 135–148.
+We seem to perceive a world imbued with meaning -- objects that
+organizing perceptual information in appropriate ways, confers a survival advantage advantage ecological
 
+My work suggests that the way we /use/ information fundamentally changes the way it is represented. When using an unfamiliar coin as a form of currency, for example, the symbols on its face are behaviorally relevant, and we would expect that neural representations of these symbols would be more discriminable
 
-== Recent Presentations
-- Braunlich, K., & Seger, C. A. (2018). Goal-directed temporal modulation of
-probabilistic decision-making. Poster presented at the Society for Neuroeconomics annual meeting. [posters/SNE.pdf  pdf]
-- Braunlich, K., & Love, B. C. (2017). Occipitotemporal representations are modulated by conceptual knowledge and interact with a frontoparietal network. Poster presented at the Cognitive Computational Neuroscience annual meeting/. New York, New York, USA. [papers/Braunlich_CCN.pdf / pdf]
+our current goals change the way sensory information is represented in the brain. For instance, when using an unfamiliar coin as a form of currency, the symbols on its face are highly re
+ the symbols on its face are highly relevant. My work indicates that neural representations of these behaviorally relevant signals are more discriminable than when they are irrelevant. For instance, when using the same coin as a type of "screwdriver", neural representations of the coins width should be more discriminable.
+
+ primarily interested in how decision makers organize information to make effective decisions. In much of my work, I use computational modeling to combine insights from the brain (typically obtained using fMRI) and from behavior. The ultimate goal is to understand the representational principles underlying our capacity to flexibly assign meaning to similar patterns of sensory information. For example, when treating a coin as a form of currency, neural representations of the symbols on its surface might be more easily discriminable than when it is used as a screwdriver. Through use of machine learning methods, it is possible to identify the characteristics of information processing that are common across individuals, and to better understand the principles underlying individual differences in decision-making.
+
+ability to
+
+idiosyncratic patterns of decision-making. In the past, I've focused on a hallmark of human cognition, investigating the neurobiological principles underlying our ability to flexibly interpret
+
+ humans to flexibly sort stimuli into distinct categories.
+
+I'm currently working to expand on this framework by investigating homologies between human and macaque sensory processing.
+- naturalistic stimuli
+
+with [http://bradlove.org/ Brad Love] at the University College London. In the past, I worked with [http://wheelerlab.gatech.edu/ Mark Wheeler] at the Georgia Institute of Technology, and with [https://sites.google.com/site/segerlabcsu/Researchers Carol Seger] at Colorado State University, where I completed my Ph.D. Broadly, I combine neuroimaging (primarily fMRI), behavioral experimentation, and mathematical modeling to investigate biological mechanisms underlying our ability to draw meaningful information from the world around us.
