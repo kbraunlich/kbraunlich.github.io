@@ -1,0 +1,156 @@
+# jemdoc: menu{MENU}{research.html}
+
+= Publications
+
+=== Highlights
+~~~
+#{}{img_left}{imgs/sea3d.png}{Kurt Braunlich}{130}{130}{papers/sea_psychRev.pdf}
+*Bidirectional Influences of Information Sampling and Concept Learning.*
+\n
+*Braunlich, K.* & Love, B. C. (2022).   [https://psycnet.apa.org/fulltext/2021-62589-001.html /Psychological Review/]. \[[papers/sea_psychRev.pdf pdf]\] \n
+
+A dominant approach in the category learning literature has focused on how, through selective
+attention, stimulus representations are “contorted” such that behaviourally relevant dimensions are accentuated 
+(or “stretched”), and representations of irrelevant dimensions are ignored (or “compressed”). 
+Although leading to important insights into how we organize information in memory to make effective decisions, this approach sidesteps important questions related to how information is initially encoded. 
+In high-dimensional real-world environments, it is computationally infeasible to sample all available
+information, and human decision makers must selectively sample information from sources expected to provide
+behaviourally-relevant information. To address these and other shortcomings, we developed an active sampling model.
+ Like human
+decision makers, the model displays strategic sampling behaviour, such as terminating information search
+when sufficient information has been sampled, and adaptively adjusting its search path in response to
+incoming information. Its behaviour on several classic category learning experiments closely mirrors that that of human learners.
+It additionally demonstrates human-like failure modes, such as developing "filter bubbles" when
+exploitation of known information sources is prioritized over exploration of novel sources.  
+
+~~~
+\n
+
+~~~
+#{}{img_left}{imgs/occAtt_jepg.png}{Kurt Braunlich}{130}{130}{papers/Braunlich_Love_2018_jep_general.pdf}
+*Occipitotemporal Representations Reflect Individual Differences in Conceptual Knowledge.* 
+\n
+*Braunlich, K.* & Love, B. C. (2019).  [https://psycnet.apa.org/fulltext/2018-54995-001.html /JEP: General/]. \[[papers/Braunlich_Love_2018_jep_general.pdf pdf]\] \n
+\n
+Several groups have shown that selective feature-based attention can modulate the discriminability of neural representations. These studies have relied on contrastive analyses (e.g., "attend to feature A vs. feature B"). While this is a compeeling experimental approach, it sidesteps the difficult question: "What is selective attention?" In this paper, we linked brain and behaviour using cognitive models that precisely (and formally) define attention as /contorting/ representational space along axes defined by perceptually-separable features. We demonstrate that occipitotemporal representations of the /individual stimulus features/ were sensitive to the learned category structure, such that features with greater behavioural relevance were more easily decoded. The observed contortion of occipitotemporal representational space closely resembled predictions of classic cognitive models fit to behavioural data. Questions related to the origins of the signals driving this effect motivated the development of the information connectivity method described in our 2017 CCN paper.
+~~~
+\n
+~~~
+#{}{img_left}{imgs/otc_jneuro.png}{Kurt Braunlich}{130}{130}{http://www.jneurosci.org/content/37/32/7631}
+*Occipitotemporal Category Representations are Sensitive to Abstract Category Boundaries Defined by Generalization Demands.* 
+\n
+*Braunlich, K.*, Liu, Z., & Seger, C. A. (2017). [http://www.jneurosci.org/content/37/32/7631 / The Journal of Neuroscience/]. \[[papers/Braunlich_Liu_Seger_2017_jneuro.pdf pdf]\]
+\n
+\n
+The ability to flexibly generalize category knowledge in contextually appropriate ways is a fundamentally important component of everyday life. For
+example, when using a vending machine, it may be necessary to use a strict generalization threshold to distinguish dimes from non-dimes,  but when cleaning out a desk, it may be necessary to use a more lenient threshold to distinguish coins from non-coins. The neurobiological principles underlying this capacity, however, are poorly understood. To investigate how occipitotemporal category representations might change in response to generalization demands. We collected fMRI data while participants used "strict" (e.g.,  "is this a dime?") and "lax" (e.g., "is this a coin?") generalization rules to categorize abstract experimental stimuli. Stimulus information was more easily decoded from occipitotemporal cortex when stimuli were closer to the generalization boundary; somewhat surprisingly, decoding accuracy was greater when decision confidence was low. This effect highlights an important role for top-down modulation of OTC in response to decisional uncertainty. Better understanding these neurobiological interactions will a goal for future research. 
+~~~
+\n
+~~~
+#{}{img_left}{imgs/acmltr_NI.png}{Kurt Braunlich}{130}{130}{http://dx.doi.org/10.1016/j.neuroimage.2015.11.011}
+*Categorical Evidence, Confidence and Urgency During Probabilistic Categorization.* 
+\n
+*Braunlich, K.*, & Seger, C. A. (2016). [http://dx.doi.org/10.1016/j.neuroimage.2015.11.011  / NeuroImage/]. \[[papers/Braunlich_Seger_2016_neuroimage.pdf pdf]\]
+\n
+\n
+Real-world decisions evolve across time, and require decision-makers to keep track of multiple dynamic variables at once.
+Using a temporally-extended categorization task, which required decision makers to integrate probabilistic information from distinct stimulus features, we tracked the temporal evolution of three important neural signals: decisional evidence, normative decision confidence, and monotonically-ramping evidence-independent signals, which are thought to reflect temporal demands on decisional processes. Subsquent work (in progress) has identified evidence-independent signals which appear to play a role in allowing decision-makers to flexibly adjust their deliberative strategies to respond at opportune moments (e.g., when reward is available).
+#Subsequent (unpublished) work has identified monotonically-increasing evidence-independent signals that are contextually-sensitive; ramping with a slope reflecting the intended time of response, seconds before a button press.  
+~~~
+\n
+#~~~
+#{}{img_left}{imgs/neur_np.png}{Kurt Braunlich}{130}{130}{http://www.sciencedirect.com/science/article/pii/S0028393215301044}
+#*Neural Networks Supporting Switching, Hypothesis Testing, and Rule Application.* 
+#Liu, Z., *Braunlich, K.*, Wehe, H. S., & Seger, C. A. (2015). [http://www.sciencedirect.com/science/article/pii/S0028393215301044 / Neuropsychologia/]. [papers/Liu_Braunlich_et_al2015_neuropsychologia.pdf [PDF]]\n
+#\n
+#Using constrained principal component analysis, we investigated how multiple networks contribute to task switching, hypothesis-testing and rule application.
+#~~~
+
+~~~
+#{}{img_left}{imgs/wmcat_NI.png}{Kurt Braunlich}{130}{120}{http://www.sciencedirect.com/science/article/pii/S1053811914009811}
+*Frontoparietal Networks Involved in Categorization and Item Working Memory.* \n
+*Braunlich, K.*, Gomez-Lavin, J., & Seger, C. A. (2015). [http://www.sciencedirect.com/science/article/pii/S1053811914009811 / NeuroImage/]. \[[papers/Braunlich_Gomez-Lavin_Seger_2015_neuroimage.pdf pdf]\]
+\n
+\n
+In this study, we compared categorization and item-specific working memory based decisions using delayed match to category (DMC) and delayed match to sample (DMS) tasks. In the DMC task, participants viewed and categorized a stimulus, maintained the category across a delay, and during the probe phase indicated whether a second stimulus matched the category of the first. In the DMS task, participants encoded and maintained a specific item in working memory, and at probe decided if the second stimulus was an exact match. Constrained principal components analysis was used to identify and compare patterns of activity across the tasks phases between the two tasks. Two frontoparietal networks were particularly interesting. The first included regions sometimes associated with regions of the dorsal attention network and the frontoparietal salience network. Its activity was consistent with a role in rapid orienting to and processing of complex stimuli. The second network involved regions previously associated with the frontoparietal central-executive network. It responded more slowly following each stimulus, and displayed activity consistent with a general role in in decision-making irrespective of task. Additional components associated with visual, somatomotor, and default mode networks were also identified. 
+
+~~~
+
+~~~
+#{}{img_left}{imgs/gen_jneuro.png}{Kurt Braunlich}{130}{130}{http://www.jneurosci.org/content/35/23/8802.short}
+*Generalization in Category Learning: The Roles of Representational and Decisional Uncertainty.* 
+\n
+Seger, C. A., *Braunlich, K.*, Wehe, H., & Liu, Z. (2015). [http://www.jneurosci.org/content/35/23/8802.short / The Journal of Neuroscience/]. \[[papers/Seger_Braunlich_et_al_2015_jneuro.pdf pdf]\]
+\n
+\n
+We investigated neural signals reflecting distance from a learned category prototype to novel regions of perceptual space, and signals reflecting distance from a linear decision boundary. Prior to scanning, participants learned to categorize stimuli according to an information integration category structure in which stimuli varied over two incommensurable feature dimensions. Participants learned to categorize stimuli within restricted region of stimulus space prior to fMRI scanning. During scanning, they also categorized  stimuli from novel regions of stimulus space. These transfer stimuli differed both in distance from the training region prototype and distance from the decision boundary. The superior parietal lobe, lingual gyri, and anterior hippocampus were sensitive to distance from the decision boundary. The left intraparietal sulcus was sensitive to distance from the category prototype. The suggest different uncertainty resolution mechanisms for category membership (representational uncertainty) and stimulus location relative to a decision boundary (decisional uncertainty).
+~~~
+\n
+#~~~
+#{}{img_left}{imgs/cat_hbm.png}{Kurt Braunlich}{130}{120}{papers/Seger_Braunlich_2015_brain_mapping.pdf}
+#*Category Learning.* \n
+#Seger, C. A., & *Braunlich, K.* (2015). In A. W. Toga (Ed.), Human Brain Mapping: An Encyclopedic Reference. Elsevier Inc. [papers/Seger_Braunlich_2015_brain_mapping.pdf [PDF]]\n
+#Stimuli can be sorted into categories using a variety of strategies. In this review, we discuss how multiple neural systems are thought to cooperate and compete during the performance of different categorization tasks.
+#~~~
+
+#~~~
+#{}{img_left}{imgs/bg_wires.png}{Kurt Braunlich}{130}{120}{http://wires.wiley.com/WileyCDA/WiresArticle/articles.html?doi=10.1002%2Fwcs.1217}
+#*The Basal Ganglia.* \n
+#*Braunlich, K.*, & Seger, C. A. (2012).  [http://wires.wiley.com/WileyCDA/WiresArticle/articles.html?doi=10.1002%2Fwcs.1217 / Wiley Interdisciplinary Reviews: Cognitive Science/]. [papers/Braunlich_Seger_2012_wires.pdf [PDF]]\n
+#The basal ganglia are anatomically well-positioned to modulate activity across the brain. In this review, we discuss the importance of the basal ganglia in instrumental learning, cognitive control, sequence learning, and categorization. To illustrate the relationship between the basal ganglia and
+#cognitive function, we  discuss the neurobiological and cognitive characteristics of Parkinson’s disease, Huntington’s disease and addiction.
+#~~~
+
+#== Recent Presentations
+#~~~
+#{}{img_left}{imgs/vAcmltr_NI2.png}{Kurt Braunlich}{130}{120}{posters/SNE.pdf}
+#*Goal-Directed Temporal Modulation of Probabilistic Decision-Making: The Roles of the VMPFC and Hippocampus.* \n
+#*Braunlich, K.*, & Seger, B. C. (2018). Poster presented at the  / Society for Neuroeconomics Annual Meeting/. [posters/SNE.pdf [PDF]] \n
+#In order to respond at opportune moments, decision makers must often commit to choices with incomplete evidence. Building on the findings reported in Braunlich & Seger (2015), we combine model-based fMRI, MVPA, and connectivity analyses to investigate how decisions makers adjust their decisional strategies to respond at opportune moments. While activity within many regions of the brain reflected the temporal proximity to reward, the vmPFC and aHPC appear to play particularly important roles in governing how incoming sensory evidence is used to inform evolving representations of decision-evidence.
+#~~~
+
+#~~~
+#{}{img_left}{imgs/ccn.png}{Kurt Braunlich}{130}{120}{papers/Braunlich_Love_CCN.pdf}
+#*Occipitotemporal representations are modulated by conceptual knowledge and interact with a frontoparietal network.* \n
+#*Braunlich, K.*, & Love, B. C. (2017). Paper presented at the  / Cognitive Computational Neuroscience Annual Meeting/. [papers/Braunlich_Love_CCN.pdf [PDF]] \n
+#Building on the attentional effects reported in Braunlich & Love (in press)  we use a novel connectivity analysis to identify regions of the brain involved in reading-out, and/or modulating, the strength of these occipitotemporal stimulus feature representations. We demonstrate that regions of the bilateral intraparietal sulcus closely predict (in a cross-validated sense) the strength of these representations on a trial-by-trial basis. Frontal regions, in turn, predict the strength of these intraparietal representations.
+#~~~
+
+=== Complete List
+- *Braunlich, K.*, & Love, B. C. (2022)./ Bidirectional influences of information sampling and concept learning/. Psychological Review. 
+#\n\n
+
+- Zeithamova, D., Mack, M. L., *Braunlich, K.*, Davis, T., Seger, C. A., van Kesteren, M. T., & Wutz, A. (2019). Brain mechanisms of concept learning. Journal of Neuroscience.
+#\n\n
+
+- *Braunlich, K.*, Seger, C. A., Jentink, K. G., Buard, I., Kluger, B. M., & Thaut, M. H. (2019). /Rhythmic auditory cues shape neural network recruitment in Parkinson’s disease during repetitive motor behavior/. European Journal of Neuroscience. 
+#\n\n
+
+
+- *Braunlich, K.*, & Love, B. C. (2018). /Occipitotemporal representations reflect individual differences in conceptual knowledge/. Journal of Experimental Psychology: General. 
+#\n\n
+
+- *Braunlich, K.*, Liu, Z., & Seger, C. A. (2017). /Occipitotemporal category representations are sensitive to abstract category boundaries defined by generalization demands/. The Journal of Neuroscience.
+#\n\n
+
+- *Braunlich, K.*, & Love, B. C. (2017). /Occipitotemporal representations are modulated by conceptual knowledge and interact with a frontoparietal network/.  Cognitive Computational Neuroscience, New York, NY.  http:\/\/ccneuro.org\/abstracts\/abstract_3000278.pdf 
+#\n\n
+
+- *Braunlich, K.*, & Seger, C. A. (2016). /Categorical evidence, confidence, and urgency during probabilistic categorization/. NeuroImage.
+#\n\n
+
+- *Braunlich, K.*, Gomez-Lavin, J., & Seger, C. A. (2015). /Frontoparietal networks involved in categorization and item working memory/. NeuroImage. 
+#\n\n
+
+- Liu, Z., *Braunlich, K.*, Wehe, H. S., & Seger, C. A. (2015). /Neural networks supporting switching, hypothesis testing, and rule application/. Neuropsychologia. 
+#\n\n
+
+- Seger, C. A., & *Braunlich, K.* (2015). /Category learning/. In Brain Mapping (pp. 487–492). Elsevier. 
+#\n\n
+
+- Seger, C. A., *Braunlich, K.*, Wehe, H. S., & Liu, Z. (2015). /Generalization in category learning: The roles of representational and decisional uncertainty/. Journal of Neuroscience. 
+#\n\n
+
+- *Braunlich, K.*, & Seger, C. (2013). /The basal ganglia/. Wiley Interdisciplinary Reviews: Cognitive Science. 
+#\n\n
+
