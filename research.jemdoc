@@ -4,6 +4,33 @@
 
 === Highlights
 ~~~
+#{}{img_left}{imgs/braincloud2.png}{Kurt Braunlich}{130}{130}{https://www.biorxiv.org/content/10.64898/2026.10.01.755966v1.abstract}
+*Translating Functional Brain Activity Between Humans and Monkeys.*
+\n
+*Braunlich, K.*, Duyck, M., Duffield, S., Behel, K., Baker, C.I., & Conway, B.R. (2026). [https://www.biorxiv.org/content/10.64898/2026.10.01.755966v1.abstract /bioRxiv/]. \n
+\n
+Comparing brain responses across species is essential for identifying models of human cognition and testing theories of brain evolution, but differences in brain size, measurement techniques, and signal dynamics make direct comparison challenging. We collected dense fMRI data in macaques and humans using the same movies, static-image sequences, and tasks, and developed a multivariate analysis method that aligns neural representations temporally and spatially. The resulting framework provides a quantitative translation of brain responses among individuals and between species. Using this approach, we uncovered a broadly conserved cross-species hierarchy of retinotopic visual areas and whole-brain correspondence, while also identifying species differences in how higher-order areas map onto one another. We further identified potential macaque precursors to human regions involved in high-level cognition, including theory-of-mind and reading.
+~~~
+\n
+~~~
+#{}{img_left}{imgs/gen_jneuro.png}{Kurt Braunlich}{130}{130}{https://www.sciencedirect.com/science/article/pii/S1053811925005920}
+*Integration of Contextual Reward Motivation with Category Representations.*
+\n
+Seger, C. A., *Braunlich, K.*, & Liu, Z. (2025). [https://www.sciencedirect.com/science/article/pii/S1053811925005920 /NeuroImage/]. \n
+\n
+This study examined how representations of categories and contextually signaled reward availability interact to support categorization that maximizes potential reward. Participants performed a categorization task during fMRI scanning in which they viewed a cue indicating the probability of receiving reward, then categorized a stimulus, and then (if correct) received a reward according to the cued probability. Representational similarity analysis and univariate measures converged on category representations in a right frontoparietal–striatal network including the anterior IPS, inferior frontal gyrus, and posterior caudate. Category structure and reward probability converged in posterior caudate and in motor cortex underlying the hand responses used to indicate category membership, suggesting corticostriatal and motor pathways for integrating reward availability with category-guided action.
+~~~
+\n
+~~~
+#{}{img_left}{imgs/otc_jneuro.png}{Kurt Braunlich}{130}{130}{https://www.jneurosci.org/content/jneuro/45/2/e1673232024.full.pdf}
+*Color and Spatial Frequency Provide Functional Signatures of Retinotopic Visual Areas.*
+\n
+Loggia, S.R., Duffield, S.J., *Braunlich, K.*, & Conway, B.R. (2025). [https://www.jneurosci.org/content/jneuro/45/2/e1673232024.full.pdf /The Journal of Neuroscience/]. \n
+\n
+Primate vision relies on retinotopically organized cortical parcels defined by representations of visual field, eccentricity, and area. Here we test for functional signatures of these organizing principles using fMRI in macaque monkeys and a Sparse Supervised Embedding analysis to identify stimulus features that best distinguish parcels from one another. Constraining the model by eccentricity recovered expected relationships between spatial frequency and S-cone modulation. Constraining by dorsal/ventral location and retinotopic area revealed additional signatures: posterior parcels (V1) were distinguished from anterior parcels (V4) by differential responses to chromatic and luminance contrast, especially for low-spatial-frequency gratings, while ventral parcels were distinguished from dorsal parcels by differential responses to colors that modulate all three cone types.
+~~~
+\n
+~~~
 #{}{img_left}{imgs/sea3d.png}{Kurt Braunlich}{130}{130}{papers/sea_psychRev.pdf}
 *Bidirectional Influences of Information Sampling and Concept Learning.*
 \n
@@ -117,6 +144,15 @@ We investigated neural signals reflecting distance from a learned category proto
 #~~~
 
 === Complete List
+- *Braunlich, K.*, Duyck, M., Duffield, S., Behel, K., Baker, C.I., & Conway, B.R. (2026). /Translating functional brain activity between humans and monkeys/. bioRxiv.
+#\n\n
+
+- Seger, C. A., *Braunlich, K.*, & Liu, Z. (2025). /Integration of contextual reward motivation with category representations/. NeuroImage.
+#\n\n
+
+- Loggia, S.R., Duffield, S.J., *Braunlich, K.*, & Conway, B.R. (2025). /Color and spatial frequency provide functional signatures of retinotopic visual areas/. The Journal of Neuroscience.
+#\n\n
+
 - *Braunlich, K.*, & Love, B. C. (2022)./ Bidirectional influences of information sampling and concept learning/. Psychological Review. 
 #\n\n
 

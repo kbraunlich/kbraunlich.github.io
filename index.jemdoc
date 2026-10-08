@@ -6,20 +6,20 @@
 
 <div>
     <p style="float: left; padding: 0px 20px 0px 0px;"><img src="imgs/biopicog.png" height="227.1" width="309.9" border="1px"></p>
-    <p>I am a cognitive neuroscientist in the <a href="https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/lbc/slp/index.shtml">Section on Learning and Plasticity</a> 
-    of the <a href="https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/lbc">Laboratory of Brain and Cognition</a>
-    at the <a href="https://www.nimh.nih.gov/index.shtml">National Institute of Mental Health</a>.
-    <br>
-    <br>
-    Broadly, I am working to better understand the computational principles and biological mechanisms underlying our ability to organize and selectively process perceptual information. I combine insights derived from computational modeling, neuroimaging, and behavior to address questions related to attention, learning, and decision-making.</p>
+    <p>I am a research fellow in the <a href="https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/lbc/slp/index.shtml">Section on Learning and Plasticity</a> at <a href="https://www.nimh.nih.gov/index.shtml">NIMH</a> and the <a href="https://www.nei.nih.gov/research-and-training/research-labs-and-branches/laboratory-sensorimotor-research">Laboratory of Sensorimotor Research</a> at the <a href="https://www.nei.nih.gov/">NEI</a>. My doctoral and postdoctoral work examined the neural and computational principles of category learning and decision-making in humans. I now develop quantitative methods for translating functional brain responses across species.</p>
+    
+
 </div>
 
 ~~~
 
-
+    /This is my personal website. The opinions expressed are my own and do not reflect the view of the National Institutes of Health, the Department of Health and Human Services, or the United States government./
+    
 == News
-- New Preprint: /Color and spatial frequency provide functional signatures of retinotopic visual areas/. Loggia, S.R., Duffield, S.J., Braunlich, K., \& Conway, B.R., [https://www.biorxiv.org/content/10.1101/2022.12.01.518789v1 BioRxiv].
-- New Paper: /Bidirectional interactions between active sampling and concept learning/. Braunlich, K, \& Love, B.C., [https://psycnet.apa.org/fulltext/2021-62589-001.pdf Psychological Review].
+- New Preprint: /Translating functional brain activity between humans and monkeys/. Braunlich, K., Duyck, M., Duffield, S., Behel, K., Baker, C.I., \& Conway, B.R., [https://www.biorxiv.org/content/10.64898/2026.10.01.755966v1.abstract bioRxiv].
+- New Poster: /Multi-View Temporal Alignment for Cross-Species fMRI/. Braunlich, K., Duyck, M.M., Conway, B., \& Baker, C.I., [https://openreview.net/forum?id=pbtArOMbc1 CCN 2026].
+- New Paper: /Integration of contextual reward motivation with category representations/. Seger, C.A., Braunlich, K., \& Liu, Z., [https://www.sciencedirect.com/science/article/pii/S1053811925005920 NeuroImage].
+- New Paper: /Color and spatial frequency provide functional signatures of retinotopic visual areas/. Loggia, S.R., Duffield, S.J., Braunlich, K., \& Conway, B.R., [https://www.jneurosci.org/content/jneuro/45/2/e1673232024.full.pdf Journal of Neuroscience].
 
 == Education
 - Ph.D. Cognitive Psychology, Colorado State University (advisor: Prof. Carol Seger)
